@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whatsappbot-320909",
+  "private_key_id": "e306f02b1fcbf39c6ae7a03df03ee777e9ebc1a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCoPY40YMSkPLeq\n46m+UOtEF+Wy7cml2XUCkhS+Zy7c2KVJNEL8Ij79ym4RNj9BS6zeavjgi0AqcnNa\nFghqYuXhVbVSORxn8SryRbFlcj5wt0djcuTiSzUjd6Y+zzlMWl5lm7S2DuGuppps\nI9iz5v0iui5FbdqAI1USdkOEQATFNTpunBKN884B8LoEsQ5ZEVwdaY0t0TV5140e\n6j0Lt3BEcGR5VVZkhYZq5fPfkwFj7JXLsStW5SF62ZWHFK0xEXBeFgitG9jff9yo\nDjsv1++fqEdjKJMkZ9u27Ia86mig8q0Z+gA/W/5vYED0GkP0tkgZ0bteUzsbMQzL\nq7J2TYvjAgMBAAECggEASrmAcmIypPH07/mLeKTvQgDNPKJiCIBj+L7SaNlilqPB\nEhkc0WkSil3BcnKiOMm4X9eqb+1ZlCDefDpCBaKkkOelD/6ez8nttcrfpnvOIPk+\nw3ySDbKyyOyJUedvfyq6N64nXx+P/Kcx+msXgpxLfYOtLphCztwimn8dsN1QYRhx\nUhL9ZyD7XrJqzB4pIlBYC5KA6Kvs7Cyw67tUi44JvziyEDQRqHvmxmvZg6Hxhz8y\nD5DMEUxRE5ujIXmyLgq7OQqOFqxVAXPimye2PwAv4XYp1DO/PeC5kIymeNUsvvjH\nT5mrX3KPjWOPA8on2pLyvkW4hK92k94tDhftjZg1UQKBgQDUezjDd+sseieJOeyJ\nH77VuSUMV+RVQZ4E8a5YzJSr/PNYOfwwebArKwcdWmQb+gmHfQkw/xCJvUg1lZ7g\nplwgOmLP+wMjpu63FwWbU+ytcjFZDLCi9lvFbaFYEvJXcS+ifievadJWw9tnCBuN\nOqjjOmWs9U4Zz4s3+f/PPUg28wKBgQDKsrRnpykBFCNAqWjojABZRFMrJuP+DgE+\nwUXKvjj+HF0/h7bQDMsm/1jgwMWdFIB13MHqqU0N+hPqomShYl0J2rcIZu73faQw\n7K0GOQ9E9bXWOVOgHcuA+gDalSDz8oY4JgsYLqIAxzVBfmcnXNW3bS3zOOitTK3N\n6+/Y4mdzUQKBgQCeNSV9vWNY2ZdogL2TGBUCk3l3aFX1+QaMjdsP+TvVl2ElVv9k\npKa8baw9edlCT3ka7cmTNsd8l3gVldMXWCcORArg6vhaamgh4T1meyWlu3ns4RsA\nK8kHBmr05h6VZwxdw+sOnA9mVSye2ZWSIZQwpIGiN4Awja0OP9Ht36ZOawKBgQCk\n6yVROHZqREIyeCO9ITufZbHtaCUULbzhnEr2nDKuvdE4wWkCeYZI4nUj2HRwS6AB\nRW4ZSUpCVvghbaNGk0tzmxpUobtIbldK3yYf7Aj6aJhcBiR+H//VnpNXRQKcuPRv\ndrSMJlT1IR+5e+jd4/CW3yQFwoW9iqfW5WIuKndVIQKBgQCeN+I0u9Tq+klfnipK\nMYhrRDTOD8YI/xWcYUrwiRbGCkrOfnl2qYRRXgu2L53KWG0ndXs8ADeOQmdyz9Z3\n9+fefCs7QySCcx3+Vsm4slfyRVThU5cKDtC/fK28X0tcBtU4ZrgWw6R/VRumUViD\n5QlRQZQ+A0uERyvIfniAi440Ww==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-pjtaclrga8yziuqchvjwq9r2cm@whatsappbot-320909.iam.gserviceaccount.com",
+  "client_id": "101210069507133089413",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-pjtaclrga8yziuqchvjwq9r2cm%40whatsappbot-320909.iam.gserviceaccount.com"
+}
